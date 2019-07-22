@@ -1,6 +1,5 @@
 # Python-Opencv-S2
 
-
 libarry install
 
 - python -m pip install -u pip
@@ -35,7 +34,22 @@ sift = cv2.xfeatures2d.SIFT_create()
 
 # Test in IDE
 
-import cv2
-cv2.__version__
-help('cv2')
-help('cv2.xfeatures2d.SIFT_create')
+- import cv2
+- cv2.__version__
+- help('cv2')
+- help('cv2.xfeatures2d.SIFT_create')
+
+#Reference
+-------------------------------------------------
+
+- ref.https://pysource.com/category/tutorials/
+- ref.https://opencv.org/releases/
+- ref.https://www.python.org/downloads/
+- ref.https://pythonprogramming.net/video-tensorflow-object-detection-api-tutorial/
+- ref.https://rgb.to/
+- ref.https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_tutorials.html
+- ref.https://www.learnopencv.com/install-opencv-3-and-dlib-on-windows-python-only/
+- ref.https://www.learnopencv.com/deep-learning-based-text-recognition-ocr-using-tesseract-and-opencv/
+- ref.https://www.lfd.uci.edu/~gohlke/pythonlibs/#opencv
+- ref.https://github.com/UB-Mannheim/tesseract/wiki
+- ref.https://github.com/MicrocontrollersAndMore
