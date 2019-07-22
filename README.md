@@ -13,11 +13,12 @@ libarry install
 
 # use to Image an tesseract
 
-- pip install pillow
+dowload in https://github.com/UB-Mannheim/tesseract/wiki
 
 before install give install program tesseract in windows now.
+
+- pip install pillow
 - pip install pytesseract
-- pip install PyAudio-0.2.11-cp37-cp37m-win32.whl
 
 
 # install opencv in website
