@@ -10,7 +10,7 @@ if __name__ == '__main__':
 
      
     # If you don't have tesseract executable in your PATH, include the following:
-    pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files (x86)\Tesseract-OCR\tesseract'
+    pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract'
     # Example tesseract_cmd = r'C:\Program Files (x86)\Tesseract-OCR\tesseract'
     
 
